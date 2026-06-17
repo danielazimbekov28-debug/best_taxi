@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import '../../core/theme/app_colors.dart';
 import '../earnings/earnings_screen.dart';
 import '../profile/driver_profile_screen.dart';
-import '../trips/trips_screen.dart';
+import '../trips/screen/trips_screen.dart';
 import 'client_shell.dart';
 import 'driver_home_screen.dart';
 

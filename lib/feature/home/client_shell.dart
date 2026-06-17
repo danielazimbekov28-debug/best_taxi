@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import '../../core/theme/app_colors.dart';
 import '../loyalty/loyalty_screen.dart';
 import '../profile/client_profile_screen.dart';
-import '../trips/trips_screen.dart';
+import '../trips/screen/trips_screen.dart';
 import 'client_home_screen.dart';
 
 
